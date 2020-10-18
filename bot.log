@@ -1,0 +1,27 @@
+root - INFO - bot starting
+apscheduler.scheduler - INFO - Scheduler started
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+apscheduler.scheduler - INFO - Scheduler has been shut down
+telegram.ext.updater - WARNING - Exiting immediately!
+2020-10-18 16:06:27,704 - INFO - bot starting
+2020-10-18 16:06:27,705 - INFO - Scheduler started
+2020-10-18 16:08:05,895 - INFO - Received signal 2 (SIGINT), stopping...
+2020-10-18 16:08:05,895 - INFO - Scheduler has been shut down
+2020-10-18 16:08:08,375 - WARNING - Exiting immediately!
+root - INFO - bot starting
+apscheduler.scheduler - INFO - Scheduler started
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+apscheduler.scheduler - INFO - Scheduler has been shut down
+root - INFO - bot starting
+apscheduler.scheduler - INFO - Scheduler started
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+apscheduler.scheduler - INFO - Scheduler has been shut down
+2020-10-18 16:36:40,573 - INFO - bot starting
+2020-10-18 16:36:40,574 - INFO - Scheduler started
+2020-10-18 16:47:39,639 - INFO - Received signal 2 (SIGINT), stopping...
+2020-10-18 16:47:39,639 - INFO - Scheduler has been shut down
+2020-10-18 16:47:51,230 - INFO - bot starting
+2020-10-18 16:47:51,231 - INFO - Scheduler started
+2020-10-18 16:47:56,180 - INFO - вызван старт
+2020-10-18 16:54:06,095 - INFO - Received signal 2 (SIGINT), stopping...
+2020-10-18 16:54:06,095 - INFO - Scheduler has been shut down
