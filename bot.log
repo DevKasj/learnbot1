@@ -25,3 +25,8 @@ apscheduler.scheduler - INFO - Scheduler has been shut down
 2020-10-18 16:47:56,180 - INFO - вызван старт
 2020-10-18 16:54:06,095 - INFO - Received signal 2 (SIGINT), stopping...
 2020-10-18 16:54:06,095 - INFO - Scheduler has been shut down
+2020-10-18 18:04:47,452 - INFO - bot starting
+2020-10-18 18:04:47,452 - INFO - Scheduler started
+2020-10-18 18:04:52,622 - INFO - вызван старт
+2020-10-18 18:04:56,804 - INFO - Received signal 2 (SIGINT), stopping...
+2020-10-18 18:04:56,804 - INFO - Scheduler has been shut down
